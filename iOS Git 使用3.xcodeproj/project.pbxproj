@@ -434,7 +434,7 @@
 				DEVELOPMENT_TEAM = 94K64F7T5K;
 				INFOPLIST_FILE = "iOS Git 使用3/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.shanreal.cn.iOS-Git---3";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ios.basic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -448,7 +448,7 @@
 				DEVELOPMENT_TEAM = 94K64F7T5K;
 				INFOPLIST_FILE = "iOS Git 使用3/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.shanreal.cn.iOS-Git---3";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ios.basic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
