@@ -9,14 +9,14 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-
+@property(nonatomic,copy)NSString*str;
 @end
 
 @implementation ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"添加测试代码");
+    _str=@"第一句代码";
 }
 
 
