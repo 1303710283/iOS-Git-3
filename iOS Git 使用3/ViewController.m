@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"添加测试log");
+    NSLog(@"添加测试代码");
 }
 
 
