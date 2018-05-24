@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    _str=@"第一句代码";
+    _str=@"老代码";
 }
 
 
