@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    _str=@"老代码";
+    NSLog(@"你好啊");
 }
 
 
